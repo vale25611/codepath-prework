@@ -3,6 +3,7 @@
 Submitted by: **Valentina Quiroga**
 
 **colorChange** is an app that changes the color of your background
+
 Time spent: **8** hours spent in total
 
 ## Required Features
