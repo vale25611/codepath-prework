@@ -2,7 +2,7 @@
 
 Submitted by: **Valentina Quiroga**
 
-**colorChange** is an app that changes the color of your background
+**colorChange** is an app that changes the color of your background and displays 3 lables 
 
 Time spent: **8** hours spent in total
 
@@ -21,13 +21,37 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+### Favorite Apps & Features
+
+1. **Instagram**
+   - Fun filters
+   - Easy UI navigation
+
+2. **Spotify**
+   - Smart playlists
+   - Offline listening
+
+3. **Duolingo**
+   - Daily streaks
+   - Gamified learning
+
+### App Idea
+
+I want to build an app that helps undocumented or low-income immigrant families find free or low-cost healthcare and immigration legal aid. The app would include:
+- A location-based service directory
+- A document checklist for healthcare or DACA
+- Event reminders and appointment scheduling tools  
+The idea comes from my work with Las Voces Latinas and my personal connection to the immigrant community.
+
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+I accidentally had triggered a segue from the button to another screen. After reviewing the storyboard connections, I removed the unintended segue.
+I also learned how to connect actions via `@IBAction` and use random color generation with Swift's `CGFloat.random(in:)` function.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Valentina Quiroga
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
