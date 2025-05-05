@@ -4,7 +4,7 @@ Submitted by: **Valentina Quiroga**
 
 **colorChange** is an app that changes the color of your background and displays 3 lables 
 
-Time spent: **8** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
@@ -52,7 +52,7 @@ The idea comes from my work with Las Voces Latinas and my personal connection to
 ## Notes
 
 I accidentally had triggered a segue from the button to another screen. After reviewing the storyboard connections, I removed the unintended segue.
-I also learned how to connect actions via `@IBAction` and use random color generation with Swift's `CGFloat.random(in:)` function.
+I also had a issues with copying my repository and had to resart my project and follow the steps very closely 
 
 ## License
 
